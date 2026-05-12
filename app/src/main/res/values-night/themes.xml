@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.Saturn" parent="android:Theme.Material.Light.NoTitleBar.Fullscreen">
+    <style name="Theme.Saturn" parent="android:Theme.Material.NoTitleBar.Fullscreen">
         <item name="android:windowBackground">@android:color/black</item>
         <item name="android:statusBarColor">@android:color/black</item>
         <item name="android:navigationBarColor">@android:color/black</item>
         <item name="android:windowLightStatusBar">false</item>
     </style>
-
     <style name="Theme.Saturn.Splash" parent="Theme.Saturn"/>
 </resources>
